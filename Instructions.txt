@@ -1,0 +1,15 @@
+Features supplémentaires :
+	3 armes différentes (AK-47 / Double MP5 / SPAS-12) : 
+		On commence avec le AK-47, après avoir tué 2 ennemis, on récupère les deux MP5 
+		et après avoir tuer 3 autres ennemis, on passe au SPAS-12.
+	Spawn ennemi : 
+		Il passe du blanc au rouge, puis devient noir quand il meurt.
+	Son lors des tirs.
+	Surchauffe de l'AK-47.
+
+
+Touches : 
+	Manette : 	
+		Analogue gauche pour se déplacer.
+		Analogue droit pour viser.
+		RB pour tirer.
